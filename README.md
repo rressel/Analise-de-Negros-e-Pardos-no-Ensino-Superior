@@ -8,9 +8,12 @@ O repositório dispõe dos seguintes diretórios e arquivos:
 Raiz: 
   - Script da análise em Python
   - Resultados
- 
+  - Base consolidada gerada a partir dos Microdados do Censo de 2009 a 2019
+  
 Plots: 
   - Gráficos gerados durante a análise
 
-Dados: 
-  - Base consolidada gerada a partir dos Microdados do Censo de 2009 a 2019
+Códigos, análises e resultados feitos por Rafael Ressel Flores
+  
+  
+  
